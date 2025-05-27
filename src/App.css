@@ -1,0 +1,9 @@
+@import "tailwindcss";
+:root {
+  --my-radius: 50%;
+  
+}
+.home-container{
+    height: 100vh;
+    width: 100vw;
+}
